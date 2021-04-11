@@ -5,15 +5,15 @@
     "description": "Welcome to our new blog, PraxisEdu. We hope you enjoy \nreading what we have to say!",
     "author": [
       {
-        "name": "Nora Jones",
-        "url": "https://example.com/norajones"
+        "name": "Axel Gierbolini",
+        "url": {}
       }
     ],
     "date": "2021-04-11",
     "categories": [],
     "contents": "\r\n\r\n\r\n\r\n",
     "preview": {},
-    "last_modified": "2021-04-11T00:58:32-04:00",
-    "input_file": {}
+    "last_modified": "2021-04-11T01:20:35-04:00",
+    "input_file": "welcome.utf8.md"
   }
 ]
